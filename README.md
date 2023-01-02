@@ -6,7 +6,6 @@ Software Engineering student & part-time software student assistant
 
 * 🌍  I'm based in Besiktas/Istanbul
 * ✉️  You can contact me at [velikocaayan@outlook.com](mailto:velikocaayan@outlook.com )
-* 🚀  I'm currently working on [BAU GO](http://baugo.bau.edu.tr/) as a part-time software student assistant.
 * 🧠  I'm learning java,soludity and react native
 * 🤝  I'm open to collaborating on web3 , smart contract, mobile app development
 
