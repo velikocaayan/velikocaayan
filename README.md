@@ -6,8 +6,6 @@ Software Engineering student
 
 * 🌍  I'm based in Besiktas/Istanbul
 * ✉️  You can contact me at [velikocaayan@outlook.com](mailto:velikocaayan@outlook.com )
-* 🧠  I'm learning java,javascript and react native
-* 🤝  I'm open to collaborating on Devops and cloud
 
 ### Skills
 
